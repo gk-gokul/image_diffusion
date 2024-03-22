@@ -43,8 +43,7 @@ This project implements a diffusion model for image denoising and classification
 6. **Evaluation**:
    - Evaluates the trained model on the test dataset to assess denoising and classification performance.
    - Uses metrics like Mean Squared Error (MSE) loss and classification accuracy for evaluation.
-  ![Training](https://github.com/gk-gokul/image_diffusion/assets/108075631/70ae1409-07b1-48f4-88ce-36ec27c9f4ff)
-     
+   
 
 7. **Visualization**:
    - Provides code for visualizing denoised images and classification results.
